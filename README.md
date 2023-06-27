@@ -2,7 +2,7 @@
 
 A random wallpaper generator in go.
 
-```console```
+```console
 Usage of wallgen:
   -backround string
     	The background color (default "#000e12")
@@ -22,14 +22,14 @@ Usage of wallgen:
     	The the x size of the image (default 800)
   -y int
     	The the y size of the image (default 800)
-
+```
 
 
 Example of generation:
 
 Generated with size of 900x900
-[![output.png](./examples/output-900x900.png) ]
+![output.png](./examples/output-900x900.png)
 
 Generated with cell distribution set to 80, step to 35 and size 400x400
-[![output.png](./examples/output-400x400.png) ]
+![output.png](./examples/output-400x400.png)
 
